@@ -10,7 +10,7 @@
  * Flexible [role-based permissioning](https://docs.appgarra.com/contracts/access-control) scheme.
  * Reusable [Solidity components](https://docs.appgarra.com/contracts/utilities) to build custom contracts and complex decentralized systems.
 
-:mage: **Not sure how to get started?** Check out [Contracts Wizard](https://wizard.appgara.com/) — an interactive smart contract generator.
+:mage: **Not sure how to get started?** Check out [Contracts Wizard](https://contracts.appgara.com/) — an interactive smart contract generator.
 
 ## Overview
 
