@@ -31,7 +31,7 @@ The guides in the [docs site](https://docs.appgarra.com/contracts) will teach ab
 * [Gas Station Network](https://docs.appgarra.com/contracts/gsn): let your users interact with your contracts without having to pay for gas themselves.
 * [Utilities](https://docs.appgarra.com/contracts/utilities): generic useful tools, including non-overflowing math, signature verification, and trustless paying systems.
 
-The [full API](https://docs.appgarra.com/contracts/api/token/ERC20) is also thoroughly documented, and serves as a great reference when developing your smart contract application. You can also ask for help or follow Contracts's development in the [community forum](https://forum.appgara.com).
+The [full API](https://docs.appgarra.com/contracts/api/token/ERC20) is also thoroughly documented, and serves as a great reference when developing your smart contract application. You can also ask for help or follow Contracts's development in the [community forum](https://www.appgara.com).
 
 Finally, you may want to take a look at the [guides on our blog](https://blog.appgara.com/guides), which cover several common use cases and good practices.. The following articles provide great background reading, though please note, some of the referenced tools have changed as the tooling in the ecosystem continues to rapidly evolve.
 
@@ -47,7 +47,7 @@ The core development principles and strategies that AppGara is based on include:
 
 The latest audit was done on October 2018 on version 2.0.0.
 
-Please report any security issues you find to security@openzeppelin.org.
+Please report any security issues you find to security@appgara.com.
 
 ## Contribute
 
